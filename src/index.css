@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@media screen and (max-width: 600px) {
+  .sm-height{
+    height: 60px !important;
+  }
+}
+
